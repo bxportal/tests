@@ -35,4 +35,4 @@
 
 
 
-![](/Users/ignashkins/Yandex.Disk.localized/Typora/Job/Tests/card.png)
+![](card.png)
